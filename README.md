@@ -1,1 +1,1 @@
-this my realization game HANGMAN
+this is my implementation of hangman games
